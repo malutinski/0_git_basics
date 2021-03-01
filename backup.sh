@@ -1,1 +1,3 @@
-print("Hello, world!")
+#!/bin/bash
+echo "Hello, world!"
+#Это комментарий
